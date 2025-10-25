@@ -1,4 +1,4 @@
-    Williamssonya333 safe monitor, social media# Linguist
+letsend Sonya Williams feedbackWilliamssonya333 safe monitor, social media# Linguist
 
 [issues]: https://github.com/github/linguist/issues
 [new-issue]: https://github.com/github/linguist/issues/new
@@ -112,7 +112,7 @@ $ bundle exec linguist --breakdown
 100.00% Ruby
 
 Ruby:
-Gemfile
+Gem file
 Rakefile
 bin/linguist
 github-linguist.gemspec
